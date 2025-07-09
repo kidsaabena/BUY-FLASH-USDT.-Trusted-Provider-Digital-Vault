@@ -36,7 +36,7 @@ Welcome to the official Flash USDT repository — your gateway to high-volume cr
 
 -  Real-time wallet injection
 -  Tradable across most DEXs and platforms
-- 🛡 Optional physical meetups for $1M+ deals
+-  Optional physical meetups for $1M+ deals
 -  Verified contract visibility (e.g., TronScan)
 
 
